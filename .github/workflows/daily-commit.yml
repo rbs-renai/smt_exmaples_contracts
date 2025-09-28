@@ -27,5 +27,5 @@ jobs:
           message: "chore: daily commit ${{ env.TODAY }}"
           author_name: "rbs"
           author_email: "159128601+rbs-renai@users.noreply.github.com"
-"
+
 
